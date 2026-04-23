@@ -42,7 +42,7 @@ The main goal was to understand how multiple pages are connected using navigatio
 ## 🚀 Usage
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/multipage-website.git
+   git clone https://github.com/Purvjadh/Multipage-Layout-using-HTML-only
    ```
 
 2. Open the project folder  
@@ -66,5 +66,5 @@ The main goal was to understand how multiple pages are connected using navigatio
 
 ## 👩‍💻 Author
 Purva Jadhav  
-- LinkedIn: your-linkedin-link  
-- GitHub: your-github-link
+- LinkedIn: https://www.linkedin.com/in/purva-jadhav-5590572b4 
+- GitHub: https://github.com/Purvjadh
