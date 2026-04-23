@@ -11,7 +11,9 @@ It includes Home, About, and Contact pages to showcase profile, education, skill
 ---
 
 ## 📸 Screenshot
-![Website Screenshot](screenshot.png)
+![Home Page Screenshot](screenshot1.png)
+![About Page Screenshot](screenshot2.png)
+![Contact Page Screenshot](screenshot3.png)
 
 ---
 
